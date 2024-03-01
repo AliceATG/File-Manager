@@ -1,0 +1,1 @@
+work_direct = "C:\\alisa\\work_direct"
